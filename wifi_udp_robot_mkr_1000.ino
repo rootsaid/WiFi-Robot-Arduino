@@ -5,7 +5,7 @@
 int ledPin = 6;
 int status = WL_IDLE_STATUS;
 char ssid[] = "RootSaid"; //WiFi Network Name
-char pass[] = "spid3rs3nse"; //WiFi Network Password
+char pass[] = "WiFi Password"; //WiFi Network Password
 int keyIndex = 0;
 unsigned int localPort = 6661;
 char packetBuffer[255];
